@@ -1,0 +1,62 @@
+body
+{background-color: #31A3EF;
+	color: white;
+}
+
+	 img,
+
+{background-color: red;
+	border-radius: 70%
+
+ 	margin:15px;
+ 	padding:16px;
+}
+
+     pre, p, fieldset
+{background-color: purple;
+	border-radius: 25%
+
+ 	margin:30px;
+ 	padding:30px;
+ }
+
+ footer
+ {background-color: yellow;
+ 	color: black;
+	border-radius: 25%
+
+ 	margin:2px;
+ 	padding:2px;
+ }
+
+ ol
+ {color: white;
+
+ }
+
+h1,h2,h3,h4,h5
+ {color: black;
+
+ }
+
+ h1
+ {font-size: 70px;
+ }
+
+ h2
+ {font-size: 50px;
+ }
+
+  h3
+ {font-size: 30px;
+ }
+
+ h4
+ {font-size: 30px;
+ }
+
+ h5
+ {font-size: 30px;
+ }
+ p
+ { font-size: 18px; }

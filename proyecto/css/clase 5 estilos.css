@@ -1,0 +1,58 @@
+link rel="style"
+
+
+.menu,article, section, h1
+{
+	background-color: green;
+}
+{border-radius: 56%} esto es un circulo o efecto circulo
+ 
+ {margenes
+
+ 	margin::
+ 	padding:; 
+
+
+
+
+
+
+
+
+
+
+
+id="imagen" solo se puede usar una sola vez en el documento
+
+
+
+
+
+tipos de media 
+all    todos
+brille     dispositivos tactiles q emplean el sistema braille
+hadheld    dispositivos de mano ; moviles PDA etc
+
+estructura
+
+regla-->selector-->propiedad-->valor
+body
+*/
+
+/*
+selector
+a b c d e
+e, d, f, a
+
+hijos>
+hermanos
+atributos[clases]
+
+
+p
+{
+	
+	background- color:red;
+}
+
+
